@@ -1,0 +1,11 @@
+n1=int(input())
+n2=int(input())
+n3=int(input())
+n4=int(input())
+a1=n1%10
+a2=n2%100
+b1=a2//10
+a3=n3%1000
+b2=a3//100
+a4=n4//1000
+print(a1,b1,b2,a4)
