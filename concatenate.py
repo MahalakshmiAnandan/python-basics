@@ -1,0 +1,5 @@
+print("enter 4 nos:")
+a,b,c,d=map(int,input().split('-'))
+print("enter a string")
+str1=input()
+print(a,b,c,d,str1)
